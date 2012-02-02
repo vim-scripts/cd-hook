@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3918
+
+This very simple plugin implements a wrapper around chdir that allows you to
+bind arbitrary actions to it.
+
+You call the new action with :Cd which completes the same way :chdir does.
